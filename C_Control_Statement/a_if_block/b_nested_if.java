@@ -1,4 +1,4 @@
-package C_Control_Statement.if_block;
+package C_Control_Statement.a_if_block;
 
 import java.util.Scanner;
 
