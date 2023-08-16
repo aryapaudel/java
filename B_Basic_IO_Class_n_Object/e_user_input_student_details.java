@@ -10,7 +10,7 @@ class Student {
         roll = sc.nextInt();
         age = sc.nextInt();
         name = sc.next();
-        // sc.close();
+        sc.close();
     }
 
     void display() {
