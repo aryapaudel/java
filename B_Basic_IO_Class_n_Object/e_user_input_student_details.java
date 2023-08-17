@@ -1,3 +1,4 @@
+package B_Basic_IO_Class_n_Object;
 import java.util.Scanner;
 
 class Student {

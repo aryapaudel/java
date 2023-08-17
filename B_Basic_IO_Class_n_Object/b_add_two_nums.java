@@ -1,3 +1,5 @@
+package B_Basic_IO_Class_n_Object;
+
 public class b_add_two_nums {
     int a = 45, b = 90;
     int sum = a+b;

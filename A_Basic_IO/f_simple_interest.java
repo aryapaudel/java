@@ -1,3 +1,4 @@
+package A_Basic_IO;
 import java.util.Scanner;
 
 public class f_simple_interest {
