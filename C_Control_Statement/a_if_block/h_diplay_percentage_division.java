@@ -23,7 +23,7 @@ public class h_diplay_percentage_division {
         total = nep + eng + math + sci + pop;
         System.out.println("Total marks is = " + total);
 
-        if (nep < 32 && eng < 32 && math < 32 && sci < 32 && pop < 32) {
+        if (nep > 31 && eng > 31 && math > 31 && sci > 31 && pop > 31) {
             per = total / 5;
             System.out.println("Percentage = " + per);
 
@@ -40,7 +40,7 @@ public class h_diplay_percentage_division {
             }
         }
         else{
-            System.out.println("Timi ta fel bhayaxau ni hau.");
+            System.out.println("Better luck next time.");
         }
 
     }
