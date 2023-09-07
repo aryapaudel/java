@@ -1,6 +1,6 @@
 package B_Basic_IO_Class_n_Object;
 
-class Student {
+class Stud {
     int roll, age;
     String name, address;
 
@@ -21,7 +21,7 @@ class Student {
 
 public class d_student_details {
     public static void main(String[] args) {
-        Student s1 = new Student();
+        Stud s1 = new Stud();
         s1.inputData(12, 29, "Ram", "Ghopteodar");
         s1.displayData();
     }

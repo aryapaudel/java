@@ -1,7 +1,7 @@
 package B_Basic_IO_Class_n_Object;
 import java.util.Scanner;
 
-class Student {
+class Studnt {
     int roll;
     int age;
     String name;
@@ -24,15 +24,15 @@ public class e_user_input_student_details {
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Enter the details of the student1:");
-        Student st1 = new Student();
+        Studnt st1 = new Studnt();
         st1.getdata(sc);
 
         System.out.println("Enter the details of the student2:");
-        Student st2 = new Student();
+        Studnt st2 = new Studnt();
         st2.getdata(sc);
 
         System.out.println("Enter the details of the student3:");
-        Student st3 = new Student();
+        Studnt st3 = new Studnt();
         st3.getdata(sc);
 
         System.out.println("Details of the student1:");
