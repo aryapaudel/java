@@ -1,0 +1,10 @@
+Handwritten Assingnment 1 (After A_Basic_IO, B_Basic_IO_Class_n_Object, C_Control_Statement and D_Operators)
+----------------------------------------------------------------------------------------------
+1. Define control statement. Exemplify if, looping, switch and jump statement with syntax.
+2. Differentiate between do while and while loop with appropriate examples.
+3. Which is the most efficient loop in JAVA. Verify your statement with example(s).
+4. Differentiate between break and continue statement with examples.
+5. Exemplify different types of operators in JAVA.
+
+Assigned : 2080/05/22, Friday
+Deadline : 2080/05/27, Wednesday
