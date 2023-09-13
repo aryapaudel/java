@@ -2,7 +2,7 @@ package D_Operators;
 
 import java.util.Scanner;
 
-public class a_arithmetic {
+public class b_arithmetic {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter first number:");
