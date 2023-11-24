@@ -3,6 +3,48 @@
   "configurations": [
     {
       "type": "java",
+      "name": "f_method_overriding",
+      "request": "launch",
+      "mainClass": "S_Inheritance.f_method_overriding",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "e_accessing_parent_method",
+      "request": "launch",
+      "mainClass": "S_Inheritance.e_accessing_parent_method",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "d_single_same_method",
+      "request": "launch",
+      "mainClass": "S_Inheritance.d_single_same_method",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "c_hierarchical",
+      "request": "launch",
+      "mainClass": "S_Inheritance.c_hierarchical",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "b_multilevel",
+      "request": "launch",
+      "mainClass": "S_Inheritance.b_multilevel",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "a_single",
+      "request": "launch",
+      "mainClass": "S_Inheritance.a_single",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
       "name": "c_example_variable_length_args_str",
       "request": "launch",
       "mainClass": "R_Variable_Length_Arguments.c_example_variable_length_args_str",
