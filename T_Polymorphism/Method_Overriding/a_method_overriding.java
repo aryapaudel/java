@@ -1,4 +1,4 @@
-package S_Inheritance;
+package T_Polymorphism.Method_Overriding;
 
 class Mom {
     public void cooking() {
@@ -9,14 +9,14 @@ class Mom {
 class Daughter extends Mom {
     @Override
     public void cooking() {
-        System.out.println("Mom ki pari is cooking meal.");
+        System.out.println("Papa ki pari is cooking meal.");
     }
 }
 
-public class f_method_overriding {
+public class a_method_overriding {
     public static void main(String[] args) {
-        Daughter riya = new Daughter();
-        riya.cooking();
+        Daughter keti = new Daughter();
+        keti.cooking();
     }
 
 }

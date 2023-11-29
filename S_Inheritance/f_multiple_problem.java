@@ -19,7 +19,7 @@ class Mom{
     solve with Java Interface.
 } */
 
-public class g_multiple_problem {
+public class f_multiple_problem {
     public static void main(String[] args) {
         /* Son s1 = new Son();
         s1.helloSon();

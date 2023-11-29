@@ -3,6 +3,55 @@
   "configurations": [
     {
       "type": "java",
+      "name": "b_final_class",
+      "request": "launch",
+      "mainClass": "U_Final_Keyword.b_final_class",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "a_final_variable",
+      "request": "launch",
+      "mainClass": "U_Final_Keyword.a_final_variable",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "b_method_overriding",
+      "request": "launch",
+      "mainClass": "T_Polymorphism.Method_Overriding.b_method_overriding",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "a_method_overriding",
+      "request": "launch",
+      "mainClass": "T_Polymorphism.Method_Overriding.a_method_overriding",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "c_method_overloading_diff_sequence_of_para",
+      "request": "launch",
+      "mainClass": "T_Polymorphism.Method_Overloading.c_method_overloading_diff_sequence_of_para",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "b_method_overloading_diff_data_types",
+      "request": "launch",
+      "mainClass": "T_Polymorphism.Method_Overloading.b_method_overloading_diff_data_types",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "a_method_overloading_diff_no_of_param",
+      "request": "launch",
+      "mainClass": "T_Polymorphism.Method_Overloading.a_method_overloading_diff_no_of_param",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
       "name": "f_method_overriding",
       "request": "launch",
       "mainClass": "S_Inheritance.f_method_overriding",
