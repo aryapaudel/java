@@ -3,6 +3,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "d_interface_EmployeeInfo",
+      "request": "launch",
+      "mainClass": "V_Interface.d_interface_EmployeeInfo",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "c_interface_NonInterface",
+      "request": "launch",
+      "mainClass": "V_Interface.c_interface_NonInterface",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "b_interface_multiple_inheritance",
+      "request": "launch",
+      "mainClass": "V_Interface.b_interface_multiple_inheritance",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "a_interface",
+      "request": "launch",
+      "mainClass": "V_Interface.a_interface",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "c_final_method",
+      "request": "launch",
+      "mainClass": "U_Final_Keyword.c_final_method",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
       "name": "b_final_class",
       "request": "launch",
       "mainClass": "U_Final_Keyword.b_final_class",
