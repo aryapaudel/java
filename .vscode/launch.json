@@ -3,6 +3,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Test",
+      "request": "launch",
+      "mainClass": "tttest.Test",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "student",
+      "request": "launch",
+      "mainClass": "tttest.student",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "ttest",
+      "request": "launch",
+      "mainClass": "tttest.ttest",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "c_method_overriding",
+      "request": "launch",
+      "mainClass": "T_Polymorphism.Method_Overriding.c_method_overriding",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
       "name": "d_interface_EmployeeInfo",
       "request": "launch",
       "mainClass": "V_Interface.d_interface_EmployeeInfo",
