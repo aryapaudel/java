@@ -3,6 +3,118 @@
   "configurations": [
     {
       "type": "java",
+      "name": "h_exception_throw_throws_voter",
+      "request": "launch",
+      "mainClass": "Y_Exception_Handling.h_exception_throw_throws_voter",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "g_exception_throws_divide",
+      "request": "launch",
+      "mainClass": "Y_Exception_Handling.g_exception_throws_divide",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "f_exception_throw_voter",
+      "request": "launch",
+      "mainClass": "Y_Exception_Handling.f_exception_throw_voter",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "e_exception_finally",
+      "request": "launch",
+      "mainClass": "Y_Exception_Handling.e_exception_finally",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "d_exception_array",
+      "request": "launch",
+      "mainClass": "Y_Exception_Handling.d_exception_array",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "c_exception_array",
+      "request": "launch",
+      "mainClass": "Y_Exception_Handling.c_exception_array",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "b_exception_solution",
+      "request": "launch",
+      "mainClass": "Y_Exception_Handling.b_exception_solution",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "a_exception_problem_scenario",
+      "request": "launch",
+      "mainClass": "Y_Exception_Handling.a_exception_problem_scenario",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "a_exp",
+      "request": "launch",
+      "mainClass": "Ttest.a_exp",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "g_constructor_overloading",
+      "request": "launch",
+      "mainClass": "M_Constructors.g_constructor_overloading",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "d_access_specifiers_public",
+      "request": "launch",
+      "mainClass": "X_Access_Specifiers.d_access_specifiers_public",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "c_access_specifiers_protected",
+      "request": "launch",
+      "mainClass": "X_Access_Specifiers.c_access_specifiers_protected",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "a_access_specifiers_default",
+      "request": "launch",
+      "mainClass": "X_Access_Specifiers.a_access_specifiers_default",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "a_access_specifiers",
+      "request": "launch",
+      "mainClass": "X_Access_Specifiers.a_access_specifiers",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "b_abstract_bank_roi",
+      "request": "launch",
+      "mainClass": "W_Abstraction.b_abstract_bank_roi",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "a_abstract",
+      "request": "launch",
+      "mainClass": "W_Abstraction.a_abstract",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
       "name": "Test",
       "request": "launch",
       "mainClass": "tttest.Test",
@@ -190,8 +302,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/SCJAVA/Q_Nested_N_Inner_Classes",
-      "program": "d:/SCJAVA/Q_Nested_N_Inner_Classes/build/Debug/outDebug",
+      "cwd": "e:/Zzz/VJCPP/26_Operator_overloading/Basics",
+      "program": "e:/Zzz/VJCPP/26_Operator_overloading/Basics/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
