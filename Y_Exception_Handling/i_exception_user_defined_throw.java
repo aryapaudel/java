@@ -8,7 +8,7 @@ class MyException extends Exception {
     }
 }
 
-public class i_exception_user_defined {
+public class i_exception_user_defined_throw {
     public static void main(String[] args) {
         try {
             // throw an object of user-defined exception

@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "j_exception_user_defined_throws_product_weight",
+      "request": "launch",
+      "mainClass": "Y_Exception_Handling.j_exception_user_defined_throws_product_weight",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
       "name": "i_exception_own",
       "request": "launch",
       "mainClass": "Y_Exception_Handling.i_exception_own",
