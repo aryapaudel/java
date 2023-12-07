@@ -5,12 +5,14 @@ abstract class Dad {
 }
 
 class Son extends Dad {
+    @Override
     void hi() {
         System.out.println("Hello dad, this is your son.");
     }
 }
 
 class Daughter extends Dad {
+    @Override
     void hi() {
         System.out.println("Hi dad, this is your daughter.");
     }

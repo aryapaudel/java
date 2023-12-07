@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "i_exception_own",
+      "request": "launch",
+      "mainClass": "Y_Exception_Handling.i_exception_own",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "z_multithread",
+      "request": "launch",
+      "mainClass": "Y_Exception_Handling.z_multithread",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "d_final_method",
+      "request": "launch",
+      "mainClass": "U_Final_Keyword.d_final_method",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
       "name": "h_exception_throw_throws_voter",
       "request": "launch",
       "mainClass": "Y_Exception_Handling.h_exception_throw_throws_voter",
